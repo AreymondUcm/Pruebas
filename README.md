@@ -1,7 +1,7 @@
 # TeamSpaghetto
 # Alberto Reymond || Guillermo Sánchez de Lamadrid
 
-<center> https://github.com/ErGuille33/TeamSpaghetto/blob/master/SpuperSplinterCell/GameArt/MOSHED-2018-9-29-16-39-30.gif?raw=true</center>  
+<center> https://github.com/AreymondUcm/Pruebas/blob/master/Recursos/MOSHED-2018-9-29-16-39-30.gif</center>  
 
 Eng:
 Super Splinter Cell:
