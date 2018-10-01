@@ -2,7 +2,7 @@
 # Alberto Reymond || Guillermo Sánchez de Lamadrid
 
 <p align= "center">
-![gif](https://github.com/AreymondUcm/Pruebas/blob/master/Recursos/MOSHED-2018-9-29-16-39-30.gif?raw=true)
+<img src=	"https://github.com/AreymondUcm/Pruebas/blob/master/Recursos/MOSHED-2018-9-29-16-39-30.gif?raw=true">
 </p> 
 
 Eng:
