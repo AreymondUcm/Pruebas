@@ -1,14 +1,14 @@
-# TeamSpaghetto
-# Alberto Reymond || Guillermo Sánchez de Lamadrid
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Anton|Russo+One|Sarpanch|Stalinist+One" rel="stylesheet">
+</head>
 
 <p align= "center">
 <img src=	"https://github.com/AreymondUcm/Pruebas/blob/master/Recursos/MOSHED-2018-9-29-16-39-30.gif?raw=true">
 </p> 
 
-Eng:
-Super Splinter Cell:
+Super Splinter Cell is a reinvention of the well known stealth saga *Splinter Cell*, adapting the main mechanics from 3D to 2D (simulating a 16 bit's style), making a 3rd person shooter game become a zenithal view type game, changing the gameplay. In order to stay loyal to the original saga, the player will enbody Sam Fisher and will be able to use some of his most well known tools and weapons.  
 
-Super Splinter Cell is a reinvention of the well known stealth saga *Splinter Cell*, adapting the main mechanics from 3D to 2D (simulating a 16 bit's style), making a 3rd person shooter game become a zenithal view type game, changing the gameplay. In order to stay loyal to the original saga, the player will enbody Sam Fisher and will be able to use some of his most well known tools and weapons.   
+**Index:**
 
 Main features:
 The player will face the game from a new perspective thanks to its zenithal view, which gives a new dimension to the gameplay from the original games.
